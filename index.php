@@ -1,4 +1,3 @@
-<?php include_once("index.html"); ?>`
+<?php include_once("guessingGameWeek4.html"); ?>
 
 
------ Today May 26th, 2016 -----
