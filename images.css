@@ -31,3 +31,14 @@ p{
 #image4{
 	border: 5px solid black;
 }
+.footer{
+	position: fixed;
+	width: 100%;
+	bottom:0;
+	float: bottom;
+	border: 1px solid black;
+	font-size: 20px;
+	text-align: center;
+	color:black;
+
+}
